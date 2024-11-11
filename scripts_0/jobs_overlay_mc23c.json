@@ -1,0 +1,10 @@
+[
+    {
+        "inDS": "mc23_13p6TeV.700794.Sh_2214_Ztautau_maxHTpTV2_CVetoBVeto.merge.HITS.e8514_e8528_s4159_s4114",
+        "outDS": "user.htsoi.mc23_13p6TeV.700794.Sh_2214_Ztautau_maxHTpTV2_CVetoBVeto.RDO.e8514_e8528_s4159_s4114.v01"
+    },
+    {
+	"inDS": "mc23_13p6TeV.601229.PhPy8EG_A14_ttbar_hdamp258p75_SingleLep.merge.HITS.e8514_e8528_s4159_s4114_tid34124761_00",
+	"outDS": "user.htsoi.mc23_13p6TeV.601229.PhPy8EG_A14_ttbar_hdamp258p75_SingleLep.RDO.e8514_e8528_s4159_s4114.v01"
+    }
+]
