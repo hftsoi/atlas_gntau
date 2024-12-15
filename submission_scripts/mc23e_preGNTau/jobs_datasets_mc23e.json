@@ -1,8 +1,8 @@
 [
 	{"inDS": "group.trig-analysis.tau.mc23_13p6TeV.601191.PhPy8EG_AZNLO_Ztautau.RDO.e8514_e8528_s4369_s4370.v01_EXT0",
-	 "outDS": "user.htsoi.nov21.Ztautau_72"},
+	 "outDS": "user.htsoi.dec9.Ztautau"},
 	{"inDS": "group.trig-analysis.tau.mc23_13p6TeV.801002.Py8EG_A14NNPDF23LO_Gammatautau_MassWeight.RDO.e8514_e8528_s4369_s4370.v01_EXT0",
-	 "outDS": "user.htsoi.nov21.Gammatautau_72"},
+	 "outDS": "user.htsoi.dec9.Gammatautau"},
 	{"inDS": "group.trig-analysis.tau.mc23_13p6TeV.601229.PhPy8EG_A14_ttbar_hdamp258p75_SingleLep.RDO.e8514_e8528_s4369_s4370.v01_EXT0",
-	 "outDS": "user.htsoi.nov21.ttbar_72"}
+	 "outDS": "user.htsoi.dec9.ttbar"}
 ]
