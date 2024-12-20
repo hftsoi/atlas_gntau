@@ -29,6 +29,6 @@ flags.DQ.Steering.HLT.doTau=True; flags.DQ.Steering.doDataFlowMon=True" --preInc
 --outputAODFile out.AOD.root --outputHISTFile out.HIST.root --maxEvents 100
 
 # tarball
-pathena --trf " " --noSubmit --outDS user."$USER".noOutput --noOutput --outTarBall=tarball.tgz
+pathena --trf " " --noSubmit --outDS user."$USER".noOutput --noOutput --outTarBall=tarball.tgz --extFile GNTau_config GNTau_config/*.onnx GNTau_config/*.root
 
 
