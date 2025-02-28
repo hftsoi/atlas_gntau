@@ -2,6 +2,7 @@ pathena --trf='Reco_tf.py --CA --multithreaded=True \
 --conditionsTag="OFLCOND-MC23-SDR-RUN3-05-03" --geometryVersion="ATLAS-R3S-2021-03-02-00" --autoConfiguration "everything" \
 --preExec "all:flags.Trigger.AODEDMSet=\"AODFULL\"; flags.Jet.WriteToAOD=True; flags.MET.WritetoAOD=True; \
 flags.Trigger.triggerMenuSetup=\"Dev_pp_run3_v1_TriggerValidation_prescale\"; \
+flags.Trigger.enableL1CaloLegacy=True; \
 from AthenaMonitoring.DQConfigFlags import allSteeringFlagsOff; allSteeringFlagsOff(flags); \
 flags.DQ.Steering.doHLTMon=True; flags.DQ.Steering.doDataFlowMon=True; \
 flags.DQ.Steering.HLT.doGeneral=False; flags.DQ.Steering.HLT.doBjet=False; \
